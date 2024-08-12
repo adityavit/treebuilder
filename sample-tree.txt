@@ -1,0 +1,19 @@
+file-diff-tool/
+├── cmd/
+│   └── filediff/
+│       └── main.go
+├── pkg/
+│   ├── diff/
+│   │   ├── diff.go
+│   │   └── histogram_diff.go
+│   └── utils/
+│       └── utils.go
+├── internal/
+│   ├── config/
+│   │   └── config.go
+│   └── logger/
+│       └── logger.go
+├── go.mod
+├── go.sum
+├── README.md
+└── Makefile
